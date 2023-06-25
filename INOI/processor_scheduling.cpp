@@ -1,4 +1,4 @@
-//Problem Link: https://www.codechef.com/INOIPRAC/problems/TWOPATHS
+//Problem Link: https://www.codechef.com/INOIPRAC/problems/INOI1901
 
 #include <bits/stdc++.h>
 using namespace std;
